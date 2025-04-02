@@ -45,9 +45,9 @@
 <!-- 自定义进度条 - 修复显示问题并统一大小 -->
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px"/>
     擅长领域
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px"/>
   </h3>
   
   
