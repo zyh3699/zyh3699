@@ -52,9 +52,10 @@
   
   
   <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D" width="30%" />
+<!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D&card_width=400&langs_count=6" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D&hide=contribs&rank_icon=github" width="30%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="30%" />
 </div>
   
