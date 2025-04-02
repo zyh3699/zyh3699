@@ -56,7 +56,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D&card_width=400&langs_count=6" width="38%" />
   <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D&include_all_commits=true&count_private=true&rank_icon=github&line_height=33" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=450&stroke=DD2727&ring=52DD81&fire=52DD81&mode=weekly&hide_longest_streak=false&hide_current_streak=false&hide_total_contributions=false" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&card_width=450&background=141321&stroke=FF5F6D&ring=FF9190&fire=FF9190&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=FF9190" width="30%" />
 </div>
   
   <!-- 添加动态贡献热图 -->
