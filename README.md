@@ -191,10 +191,22 @@ console.log(myPath.motto);
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
 </div>
 
-<!-- 添加动态语录和音乐播放器 -->
+<!-- 更炫酷的动态语录 -->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-
+  <table align="center" border="0" bgcolor="#141321" width="80%">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Left%20Quote.png" width="40" height="40">
+        <br>
+        <span style="font-size:20px; color:#FF9190"><i>"代码即艺术，逻辑如诗，我在这数字世界中探索无尽可能。"</i></span>
+        <br>
+        <span style="font-size:16px; color:#A9FEF7"><i>- 编程之道</i></span>
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Quote.png" width="40" height="40">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <!-- 页脚 - 统一标题样式并对齐图标 -->
