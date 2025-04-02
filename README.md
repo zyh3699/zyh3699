@@ -64,7 +64,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D&card_width=400&langs_count=6" width="34.4%" />
   <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D&include_all_commits=true&count_private=true&rank_icon=github&line_height=31.8" width="28.6%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&layout=vertical" width="35.9%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&layout=vertical" width="35.5%" />
 </div>
   
   <!-- 添加动态贡献热图 -->
