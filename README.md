@@ -192,75 +192,101 @@ console.log(myPath.motto);
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
 </h2>
 
-<!-- 3D贡献图 - 由GitHub Actions自动生成 -->
+<!-- 3D贡献图 (静态展示版) -->
 <div align="center">
-  <a href="https://github.com/zyh3699"><img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" /></a>
+  <a href="https://github.com/zyh3699">
+    <img width="100%" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="3D贡献图示例"/>
+  </a>
+  <p><i>注: 这是示例图像。如需启用自动更新的3D贡献图，请设置相应的GitHub Actions工作流。</i></p>
 </div>
 
-<!-- 编码时间统计 - 由WakaTime和GitHub Actions自动生成 -->
+<!-- 编码时间统计 (静态展示版) -->
 <div align="center">
   <h3>📊 本周编码时间统计</h3>
   
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  ```text
+  💬 编程语言: 
+  JavaScript         16 hrs 36 mins      ███████████░░░░░░░░░░   46.77% 
+  TypeScript         9 hrs 35 mins       ██████░░░░░░░░░░░░░░░   27.01% 
+  HTML               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░   6.41% 
+  CSS                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░   5.56%
+  Vue.js             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░   4.01%
+
+🔥 编辑器:
+VS Code 35 hrs 30 mins █████████████████████ 100.0%
+
+💻 操作系统:
+Windows 29 hrs 5 mins ████████████████████░ 81.96%
+Mac 6 hrs 24 mins ████░░░░░░░░░░░░░░░░░ 18.04%
+
+```
+<p><i>注: 这是示例数据。如需启用自动更新的WakaTime统计，请设置相应的GitHub Actions工作流。</i></p>
 </div>
 
-<!-- 最新博客文章 - 由GitHub Actions自动更新 -->
+<!-- 最新博客文章 (静态展示版) -->
 <div align="center">
-  <h3>📝 最新博客文章</h3>
-  
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+<h3>📝 最新博客文章</h3>
+
+<ul>
+  <li><a href="#">前端工程化实践：从零搭建高效开发环境</a> - 2023-08-15</li>
+  <li><a href="#">React性能优化的10个实用技巧</a> - 2023-07-28</li>
+  <li><a href="#">使用TypeScript提升代码质量的最佳实践</a> - 2023-07-10</li>
+  <li><a href="#">现代CSS布局技术详解</a> - 2023-06-22</li>
+  <li><a href="#">Web3开发入门：概念与实践</a> - 2023-06-05</li>
+</ul>
+<p><i>注: 这是示例数据。如需启用自动更新的博客文章列表，请设置相应的GitHub Actions工作流。</i></p>
 </div>
 
-<!-- 详细GitHub指标 - 由GitHub Actions自动生成 -->
+<!-- 详细GitHub指标 (静态展示版) -->
 <div align="center">
-  <h3>📈 我的GitHub数据分析</h3>
-  <img src="github-metrics.svg" alt="Metrics" width="90%">
+<h3>📈 我的GitHub数据分析</h3>
+<img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.classic.svg" alt="GitHub指标示例" width="90%">
+<p><i>注: 这是示例图像。如需启用自动更新的GitHub指标，请设置相应的GitHub Actions工作流。</i></p>
 </div>
 
 <div align="center">
-  <!-- 添加动态数据卡片 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="32%" />
-  
-  <!-- 更炫酷的贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&custom_title=ZYH的贡献图&theme=tokyo-night&bg_color=141321&color=A9FEF7&line=FF9190&point=A9FEF7&area=true&hide_border=true" width="98%" />
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="32%" />
+
+<!-- 更炫酷的贡献图 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&custom_title=ZYH的贡献图&theme=tokyo-night&bg_color=141321&color=A9FEF7&line=FF9190&point=A9FEF7&area=true&hide_border=true" width="98%" />
 </div>
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-  
-  <!-- 实时贡献日历热图 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<!-- 实时贡献日历热图 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
 </div>
 
 <!-- 添加动态语录和音乐播放器 -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-  
-  <!-- 添加Spotify实时播放状态 -->
-  <a href="https://open.spotify.com/user/your-spotify-id" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xk5munsiflgv6csjrmrh6sxlwm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" width="40%" />
-  </a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+
+<!-- 添加Spotify实时播放状态 -->
+<a href="https://open.spotify.com/user/your-spotify-id" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xk5munsiflgv6csjrmrh6sxlwm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" width="40%" />
+</a>
 </div>
 
 <!-- 页脚 - 更炫酷的设计 -->
 <div align="center">
-  <h3>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-    感谢访问我的 GitHub 主页! 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  </h3>
-  
-  <p>让我们一起探索代码的无限可能! ✨</p>
-  
-  <!-- 添加波浪动画页脚 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  感谢访问我的 GitHub 主页!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h3>
+
+<p>让我们一起探索代码的无限可能! ✨</p>
+
+<!-- 添加波浪动画页脚 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
+```
