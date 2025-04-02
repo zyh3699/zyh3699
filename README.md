@@ -183,6 +183,17 @@ myPath.dailyRoutine();
 console.log(myPath.motto);
 ```
 
+</div>
+
+<!-- GitHub 活动图 - 更炫酷动态效果 -->
+<h2 align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
+  GitHub 活动
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
+</h2>
+
+
+
 
 
 <div align="center">
