@@ -117,9 +117,14 @@
 <td width="33%" valign="top">
 
 <!-- ...existing code... -->
+<!-- ...existing code... -->
+<div align="center">
+  <h3>我的专业领域</h3>
+</div>
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="20%" valign="top">
+<td width="33%" valign="top">
 
 > ### 🧠 大语言模型与AI系统
 > 
@@ -130,7 +135,7 @@
 > ⚡ 热衷于 **AI模型部署与工程化实践**
 
 </td>
-<td width="20%" valign="top">
+<td width="33%" valign="top">
 
 > ### 🧪 深度学习与机器学习
 > 
@@ -139,7 +144,7 @@
 > 📈 应用 **时间序列预测与异常检测**  
 > 🧮 优化 **神经网络架构与训练策略**  
 > 🔄 探索 **迁移学习与少样本学习**
->
+
 </td>
 <td width="33%" valign="top">
 
@@ -150,9 +155,12 @@
 > 📈 优化 **大规模数据处理**流程  
 > 🔄 开发 **高性能数据分析**平台  
 > 🌐 构建 **知识图谱与语义检索**系统
+
 </td>
 </tr>
 </table>
+
+<!-- ...existing code... -->
 <!-- ...existing code... -->
 
 </div>
