@@ -107,10 +107,6 @@
   关于我
 </h2>
 
-<<!-- ...existing code... -->
-<div align="center">
-  <h3>我的专业领域</h3>
-</div>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
