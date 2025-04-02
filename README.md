@@ -192,6 +192,33 @@ console.log(myPath.motto);
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
 </h2>
 
+<!-- 3D贡献图 - 由GitHub Actions自动生成 -->
+<div align="center">
+  <a href="https://github.com/zyh3699"><img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" /></a>
+</div>
+
+<!-- 编码时间统计 - 由WakaTime和GitHub Actions自动生成 -->
+<div align="center">
+  <h3>📊 本周编码时间统计</h3>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
+
+<!-- 最新博客文章 - 由GitHub Actions自动更新 -->
+<div align="center">
+  <h3>📝 最新博客文章</h3>
+  
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</div>
+
+<!-- 详细GitHub指标 - 由GitHub Actions自动生成 -->
+<div align="center">
+  <h3>📈 我的GitHub数据分析</h3>
+  <img src="github-metrics.svg" alt="Metrics" width="90%">
+</div>
+
 <div align="center">
   <!-- 添加动态数据卡片 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="32%" />
