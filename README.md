@@ -17,8 +17,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 
-  <!-- 访问计数器 - 增强动态效果 -->
-  <img src="https://komarev.com/ghpvc/?username=zyh3699&style=flat-square&color=blueviolet" alt="访问计数器" />
 
 </div>
 
@@ -33,7 +31,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,bash,matlab,html,css,js,git,vscode,latex,github,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=10" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
