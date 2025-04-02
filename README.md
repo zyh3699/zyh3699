@@ -209,8 +209,7 @@ console.log(myPath.motto);
 </h3>
 
 <p align="center">
-  <i>让我们一起探索代码的无限可能!</i> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="✨" width="20" height="20" />
+  <i>让我们一起探索代码的无限可能!✨</i> 
 </p>
 
 <!-- 添加波浪动画页脚 -->
