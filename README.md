@@ -175,11 +175,11 @@ console.log(myPath.motto);
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="32%" />
 
+<!-- 更炫酷的贡献图 -->
 <!-- 更炫酷的贡献图 - 圆角设计 -->
 <div align="center">
-  <div style="border-radius: 16px; overflow: hidden; margin: 10px; box-shadow: 0 10px 30px -15px rgba(255, 95, 109, 0.5); padding: 3px; background: linear-gradient(135deg, #FF5F6D 0%, #FF9190 50%, #FFC371 100%);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&custom_title=Zephyr's world 🚀&theme=tokyo-night&bg_color=141321&color=A9FEF7&line=FF9190&point=FFC371&area=true&area_color=FF5F6D33&hide_border=true&radius=16" width="100%" alt="My active map" />
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&custom_title=ZYH的代码足迹&theme=tokyo-night&bg_color=141321&color=A9FEF7&line=FF9190&point=FFC371&area=true&area_color=FF5F6D30&hide_border=true&radius=10" width="98%" />
+</div>
 </div>
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
