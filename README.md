@@ -33,7 +33,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,bash,matlab,html,css,js,git,vscode,latex,github,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,bash,matlab,html,css,js,git,vscode,latex,github,docker&perline=10" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
