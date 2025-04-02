@@ -195,11 +195,7 @@ console.log(myPath.motto);
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 
-<!-- 添加Spotify实时播放状态 -->
-<a href="https://open.spotify.com/user/your-spotify-id" target="_blank">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xk5munsiflgv6csjrmrh6sxlwm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" width="40%" />
-</a>
-</div>
+
 
 <!-- 页脚 - 统一标题样式并对齐图标 -->
 <h3 align="center">
