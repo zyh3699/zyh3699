@@ -61,10 +61,12 @@
   
   <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D&card_width=400&langs_count=6" width="34.4%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D&include_all_commits=true&count_private=true&rank_icon=github&line_height=31.8" width="28.6%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&layout=vertical" width="35.9%" />
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="32%" />
+
 </div>
   
   <!-- 添加动态贡献热图 -->
@@ -173,13 +175,6 @@ console.log(myPath.motto);
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
-<div align="center">
-<!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="32%" />
-
-</div>
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
