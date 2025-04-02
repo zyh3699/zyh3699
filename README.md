@@ -14,7 +14,7 @@
     <a href="mailto:zephyrzhong248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://space.bilibili.com/your-id"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
     <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    
   </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
@@ -22,9 +22,9 @@
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
     <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zyh3699&label=访客统计&color=12&icon=5&pretty=true" />
-</a>
+    <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:006400&height=100&section=footer" />
   </p>
 </div>
 
