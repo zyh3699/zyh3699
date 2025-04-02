@@ -111,53 +111,49 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="background: linear-gradient(135deg, #f0f9ff 0%, #e6f4fe 100%); 
-                box-shadow: 0 6px 20px rgba(101,147,245,0.15);
-                border-radius: 12px;
-                padding: 20px;
-                margin: 12px;
-                transition: transform 0.3s ease;
-                cursor: pointer;">
-        <h3 align="center" style="color: #2b6cb0; 
-                   font-size: 1.4em;
-                   margin-bottom: 15px;
-                   border-bottom: 2px solid #bee3f8;
-                   padding-bottom: 8px;">
+      <!-- AI研究领域卡片 -->
+      <td width="50%" style="background-color: #f8f9fa;
+                border: 1px solid #e1e4e8;
+                border-radius: 6px;
+                padding: 16px;
+                margin: 8px;">
+        <h3 align="center" style="color: #2b6cb0;
+                   font-size: 1.2em;
+                   margin: 12px 0;">
           🌟 AI研究领域
         </h3>
-        <ul style="list-style-type: none;
-               padding-left: 1.2em;
-               line-height: 1.8;">
-          <li>🚀 <b style="color: #2c5282;">大型语言模型</b>训练与优化</li>
-          <li>🤖 多智能体系统架构设计</li>
-          <li>🧠 深度神经网络算法研究</li>
-          <li>⚡ RLHF实践与应用探索</li>
-          <li>🛠️ AI工程化落地实践</li>
+        <ul style="list-style-type: '▹ ';
+               padding-left: 1.5em;
+               line-height: 1.6;
+               color: #2d3748;">
+          <li><b>大型语言模型</b>训练与优化</li>
+          <li>多智能体系统架构设计</li>
+          <li>深度神经网络算法研究</li>
+          <li>RLHF实践与应用探索</li>
+          <li>AI工程化落地实践</li>
         </ul>
       </td>
 
-      <td width="50%" style="background: linear-gradient(135deg, #f3faf7 0%, #ebf8f4 100%);
-                box-shadow: 0 6px 20px rgba(72,187,120,0.1);
-                border-radius: 12px;
-                padding: 20px;
-                margin: 12px;
-                transition: transform 0.3s ease;
-                cursor: pointer;">
+      <!-- 数据库与系统卡片 -->
+      <td width="50%" style="background-color: #f8f9fa;
+                border: 1px solid #e1e4e8;
+                border-radius: 6px;
+                padding: 16px;
+                margin: 8px;">
         <h3 align="center" style="color: #2f855a;
-                   font-size: 1.4em;
-                   margin-bottom: 15px;
-                   border-bottom: 2px solid #c6f6d5;
-                   padding-bottom: 8px;">
+                   font-size: 1.2em;
+                   margin: 12px 0;">
           🗃️ 数据库与系统
         </h3>
-        <ul style="list-style-type: none;
-               padding-left: 1.2em;
-               line-height: 1.8;">
-          <li>🌐 分布式数据库架构设计</li>
-          <li>🔍 向量相似性搜索优化</li>
-          <li>📊 大数据处理流水线构建</li>
-          <li>🚄 高性能分析平台开发</li>
-          <li>🧠 知识图谱系统实现</li>
+        <ul style="list-style-type: '▹ ';
+               padding-left: 1.5em;
+               line-height: 1.6;
+               color: #2d3748;">
+          <li>分布式数据库架构设计</li>
+          <li>向量相似性搜索优化</li>
+          <li>大数据处理流水线构建</li>
+          <li>高性能分析平台开发</li>
+          <li>知识图谱系统实现</li>
         </ul>
       </td>
     </tr>
