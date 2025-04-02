@@ -17,7 +17,12 @@
     <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 
-
+<!-- 动态访问计数器 - 增强效果 -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+  </p>
 </div>
 
 <!-- 添加动态波浪分隔符 -->
@@ -31,7 +36,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
@@ -45,12 +50,7 @@
     <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
   </h3>
   
-  <!-- 动态访问计数器 - 增强效果 -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-  </p>
+  
   
   <!-- 统一卡片大小并修复加载问题 -->
   <div style="display: flex; justify-content: center; gap: 10px;">
