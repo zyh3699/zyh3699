@@ -84,21 +84,7 @@
   精选项目
 </h2>
 
-<div align="center">
-  <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
 
-<!-- 添加项目按钮 -->
-<div align="center">
-  <a href="https://github.com/zyh3699?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
-  </a>
-</div>
 
 <!-- 关于我部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
