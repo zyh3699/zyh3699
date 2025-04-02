@@ -104,6 +104,12 @@
 </div>
 
 <!-- 擅长领域标题 - 统一样式并对齐图标 -->
+
+<!-- 动态分隔符 - 使用更现代的设计 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   社区贡献
@@ -124,11 +130,6 @@
   
   <!-- 添加动态贡献热图 -->
   <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
-
-<!-- 动态分隔符 - 使用更现代的设计 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
