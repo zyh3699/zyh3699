@@ -111,8 +111,8 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
-        <h3 align="center">🧠 AI研究领域</h3>
+      <td align="center" width="50%">
+        <h3>🧠 AI研究领域</h3>
         <ul style="list-style-type: none; padding-left: 0;">
           <li>🔬 专注于 <b>大型语言模型(LLMs)训练与优化</b></li>
           <li>🤖 探索 <b>多智能体系统(Multi-Agent)架构</b></li>
@@ -121,8 +121,8 @@
           <li>⚡ 热衷于 <b>AI模型部署与工程化实践</b></li>
         </ul>
       </td>
-      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
-        <h3 align="center">💾 数据库与系统</h3>
+      <td align="center" width="50%">
+        <h3>💾 数据库与系统</h3>
         <ul style="list-style-type: none; padding-left: 0;">
           <li>🛢️ 设计 <b>分布式数据库</b>架构方案</li>
           <li>🔍 研究 <b>向量数据库与相似性搜索</b>技术</li>
@@ -134,7 +134,6 @@
     </tr>
   </table>
 </div>
-
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
