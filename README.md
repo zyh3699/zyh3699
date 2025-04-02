@@ -111,49 +111,24 @@
 <div align="center">
   <table>
     <tr>
-      <!-- AI研究领域卡片 -->
-      <td width="50%" style="background-color: #f8f9fa;
-                border: 1px solid #e1e4e8;
-                border-radius: 6px;
-                padding: 16px;
-                margin: 8px;">
-        <h3 align="center" style="color: #2b6cb0;
-                   font-size: 1.2em;
-                   margin: 12px 0;">
-          🌟 AI研究领域
-        </h3>
-        <ul style="list-style-type: '▹ ';
-               padding-left: 1.5em;
-               line-height: 1.6;
-               color: #2d3748;">
-          <li><b>大型语言模型</b>训练与优化</li>
-          <li>多智能体系统架构设计</li>
-          <li>深度神经网络算法研究</li>
-          <li>RLHF实践与应用探索</li>
-          <li>AI工程化落地实践</li>
+      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
+        <h3 align="center">🧠 AI研究领域</h3>
+        <ul>
+          <li>🔬 专注于 <b>大型语言模型(LLMs)训练与优化</b></li>
+          <li>🤖 探索 <b>多智能体系统(Multi-Agent)架构</b></li>
+          <li>🧪 研究 <b>深度学习与神经网络</b>技术</li>
+          <li>📊 实践 <b>强化学习与RLHF</b>应用</li>
+          <li>⚡ 热衷于 <b>AI模型部署与工程化实践</b></li>
         </ul>
       </td>
-
-      <!-- 数据库与系统卡片 -->
-      <td width="50%" style="background-color: #f8f9fa;
-                border: 1px solid #e1e4e8;
-                border-radius: 6px;
-                padding: 16px;
-                margin: 8px;">
-        <h3 align="center" style="color: #2f855a;
-                   font-size: 1.2em;
-                   margin: 12px 0;">
-          🗃️ 数据库与系统
-        </h3>
-        <ul style="list-style-type: '▹ ';
-               padding-left: 1.5em;
-               line-height: 1.6;
-               color: #2d3748;">
-          <li>分布式数据库架构设计</li>
-          <li>向量相似性搜索优化</li>
-          <li>大数据处理流水线构建</li>
-          <li>高性能分析平台开发</li>
-          <li>知识图谱系统实现</li>
+      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
+        <h3 align="center">💾 数据库与系统</h3>
+        <ul>
+          <li>🛢️ 设计 <b>分布式数据库</b>架构方案</li>
+          <li>🔍 研究 <b>向量数据库与相似性搜索</b>技术</li>
+          <li>📈 优化 <b>大规模数据处理</b>流程</li>
+          <li>🔄 开发 <b>高性能数据分析</b>平台</li>
+          <li>🌐 构建 <b>知识图谱与语义检索</b>系统</li>
         </ul>
       </td>
     </tr>
