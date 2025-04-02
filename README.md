@@ -114,7 +114,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 > ### 🧠 AI研究领域
 > 
@@ -125,7 +125,7 @@
 > ⚡ 热衷于 **AI模型部署与工程化实践**
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 > ### 💾 数据库与系统
 > 
