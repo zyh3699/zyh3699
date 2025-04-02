@@ -112,8 +112,9 @@
   <h3>我的专业领域</h3>
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-<div style="flex: 1;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
 
 > ### 🧠 AI研究领域
 > 
@@ -123,8 +124,8 @@
 > 📊 实践 **强化学习与RLHF**应用  
 > ⚡ 热衷于 **AI模型部署与工程化实践**
 
-</div>
-<div style="flex: 1;">
+</td>
+<td width="50%" valign="top">
 
 > ### 💾 数据库与系统
 > 
@@ -133,6 +134,10 @@
 > 📈 优化 **大规模数据处理**流程  
 > 🔄 开发 **高性能数据分析**平台  
 > 🌐 构建 **知识图谱与语义检索**系统
+
+</td>
+</tr>
+</table>
 
 </div>
 </div>
