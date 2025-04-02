@@ -76,10 +76,10 @@
 
 <div align="center">
   <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=awesome-ui&theme=radical&hide_border=true&title_color=FF5F6D" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
