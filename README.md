@@ -112,9 +112,9 @@
   <h3>我的专业领域</h3>
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 > ### 🧠 AI研究领域
 > 
@@ -125,7 +125,7 @@
 > ⚡ 热衷于 **AI模型部署与工程化实践**
 
 </td>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 > ### 💾 数据库与系统
 > 
