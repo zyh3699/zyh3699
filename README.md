@@ -192,12 +192,9 @@ console.log(myPath.motto);
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
 </h2>
 
-<!-- 3D贡献图 (静态展示版) -->
+<!-- 3D贡献图 - 由GitHub Actions自动生成 -->
 <div align="center">
-  <a href="https://github.com/zyh3699">
-    <img width="100%" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="3D贡献图示例"/>
-  </a>
-  <p><i>注: 这是示例图像。如需启用自动更新的3D贡献图，请设置相应的GitHub Actions工作流。</i></p>
+  <a href="https://github.com/zyh3699"><img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" /></a>
 </div>
 
 <!-- 编码时间统计 (静态展示版) -->

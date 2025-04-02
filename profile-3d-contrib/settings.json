@@ -1,10 +1,10 @@
 {
   "type": "rainbow",
-  "backgroundColor": "#121212",
-  "foregroundColor": "#FFFFFF",
-  "strongColor": "#FF5F6D",
-  "weakColor": "#FFC371",
-  "radarColor": "#FF9671",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#ddd",
+  "strongColor": "#fff",
+  "weakColor": "rgb(136, 146, 176)",
+  "radarColor": "rgb(140, 117, 218)",
   "growingAnimation": true,
-  "contribColors": ["#111111", "#7B1FA2", "#9C27B0", "#D500F9", "#FF4081"]
+  "contribColors": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 }
