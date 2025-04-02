@@ -28,9 +28,9 @@
 <!-- 添加动态波浪分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-<!-- 技能展示 - 炫酷旋转 3D 效果 -->
+<!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
   技能与工具
 </h2>
 
@@ -41,6 +41,13 @@
   <!-- 添加技能动画卡片 - 改进布局 -->
   
 </div>
+
+<!-- 擅长领域标题 - 统一样式并对齐图标 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle;"/>
+  擅长领域
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle;"/>
+</h2>
 
 <!-- 自定义进度条 - 修复显示问题并统一大小 -->
 <div align="center">
@@ -68,9 +75,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<!-- 项目展示部分 - 网格布局优化 -->
+<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
   精选项目
 </h2>
 
@@ -98,9 +105,9 @@
   </a>
 </div>
 
-<!-- 关于我部分 - 更加动态的设计 -->
+<!-- 关于我部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-cool.gif?1643514476" width="30"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-cool.gif?1643514476" width="30px" height="30px" style="vertical-align: middle;"/> 
   关于我
 </h2>
 
@@ -136,9 +143,9 @@
   </table>
 </div>
 
-<!-- 有趣的代码片段展示 - 增强视觉效果 -->
+<!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="45px" height="30px">
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
   代码片段
 </h2>
 
@@ -170,16 +177,12 @@ console.log(myPath.motto);
 
 </div>
 
-<!-- GitHub 活动图 - 更炫酷动态效果 -->
+<!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle;"/>
   GitHub 活动
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle;"/>
 </h2>
-
-
-
-
 
 <div align="center">
 <!-- 添加动态数据卡片 -->
@@ -213,12 +216,11 @@ console.log(myPath.motto);
 </a>
 </div>
 
-<!-- 页脚 - 更炫酷的设计 -->
-<div align="center">
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<!-- 页脚 - 统一标题样式并对齐图标 -->
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;"/>
   感谢访问我的 GitHub 主页!
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;"/>
 </h3>
 
 <p>让我们一起探索代码的无限可能! ✨</p>
@@ -226,4 +228,4 @@ console.log(myPath.motto);
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
-```
+````
