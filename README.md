@@ -112,6 +112,9 @@
   <h3>我的专业领域</h3>
 </div>
 
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="flex: 1;">
+
 > ### 🧠 AI研究领域
 > 
 > 🔬 专注于 **大型语言模型(LLMs)训练与优化**  
@@ -120,6 +123,9 @@
 > 📊 实践 **强化学习与RLHF**应用  
 > ⚡ 热衷于 **AI模型部署与工程化实践**
 
+</div>
+<div style="flex: 1;">
+
 > ### 💾 数据库与系统
 > 
 > 🛢️ 设计 **分布式数据库**架构方案  
@@ -127,6 +133,9 @@
 > 📈 优化 **大规模数据处理**流程  
 > 🔄 开发 **高性能数据分析**平台  
 > 🌐 构建 **知识图谱与语义检索**系统
+
+</div>
+</div>
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
