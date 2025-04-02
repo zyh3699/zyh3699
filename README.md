@@ -52,14 +52,30 @@
   </table>
 </div>
 
-<!-- 自定义进度条 - 修复显示问题 -->
+<!-- 自定义进度条 - 修复显示问题并统一大小 -->
 <div align="center">
-  <h3>擅长领域</h3>
+  <h3>
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
+    擅长领域
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
+  </h3>
+  
+  <!-- 动态访问计数器 - 增强效果 -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D" width="31%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D" width="31%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="31%" />
+    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
   </p>
+  
+  <!-- 统一卡片大小并修复加载问题 -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D" width="32%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D" width="32%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="32%" />
+  </div>
+  
+  <!-- 添加动态贡献热图 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
 <!-- 动态分隔符 - 使用更现代的设计 -->
@@ -169,36 +185,55 @@ console.log(myPath.motto);
 
 </div>
 
-<!-- GitHub 活动图 - 更美观的主题 -->
+<!-- GitHub 活动图 - 更炫酷动态效果 -->
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
   GitHub 活动
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25">
 </h2>
 
 <div align="center">
+  <!-- 添加动态数据卡片 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="32%" />
+  
+  <!-- 更炫酷的贡献图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&custom_title=ZYH的贡献图&theme=tokyo-night&bg_color=141321&color=A9FEF7&line=FF9190&point=A9FEF7&area=true&hide_border=true" width="98%" />
 </div>
 
-<!-- 贡献蛇形图 - 修复显示问题 -->
+<!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
+  
+  <!-- 实时贡献日历热图 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
 </div>
 
-<!-- 添加动态语录 -->
+<!-- 添加动态语录和音乐播放器 -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+  
+  <!-- 添加Spotify实时播放状态 -->
+  <a href="https://open.spotify.com/user/your-spotify-id" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xk5munsiflgv6csjrmrh6sxlwm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" width="40%" />
+  </a>
 </div>
 
-<!-- 页脚 - 更华丽的设计 -->
+<!-- 页脚 - 更炫酷的设计 -->
 <div align="center">
-  <h3>感谢访问我的 GitHub 主页! 👨‍💻</h3>
+  <h3>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    感谢访问我的 GitHub 主页! 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  </h3>
   
   <p>让我们一起探索代码的无限可能! ✨</p>
   
-  <!-- 添加更美观的动态页脚 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <!-- 添加波浪动画页脚 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
