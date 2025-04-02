@@ -107,17 +107,7 @@
   关于我
 </h2>
 
-<!-- 使用卡片式设计展示关于我 -->
-<div align="center">
-  <h3>我的专业领域</h3>
-</div>
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="33%" valign="top">
-
-<!-- ...existing code... -->
-<!-- ...existing code... -->
+<<!-- ...existing code... -->
 <div align="center">
   <h3>我的专业领域</h3>
 </div>
@@ -159,6 +149,8 @@
 </td>
 </tr>
 </table>
+
+<!-- ...existing code... -->
 
 <!-- ...existing code... -->
 <!-- ...existing code... -->
