@@ -83,10 +83,16 @@
   </a>
 </div>
 
+<!-- 添加项目按钮 -->
+<div align="center">
+  <a href="https://github.com/zyh3699?tab=repositories">
+    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+  </a>
+</div>
 
 <!-- 关于我部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-cool.gif?1643514476" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   关于我
 </h2>
 
