@@ -110,7 +110,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 > ### 🧠 大语言模型与AI系统
 > 
@@ -121,7 +121,7 @@
 > ⚡ 热衷于 **AI模型部署与工程化实践**
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 > ### 🧪 深度学习与机器学习
 > 
