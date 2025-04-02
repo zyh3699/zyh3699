@@ -4,10 +4,10 @@ on:
   # 每天午夜自动运行
   schedule:
     - cron: "0 0 * * *"
-  
+
   # 允许手动触发
   workflow_dispatch:
-  
+
   # 推送到主分支时触发
   push:
     branches:

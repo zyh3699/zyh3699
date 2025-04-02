@@ -8,23 +8,22 @@
   <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=前端开发者+%7C+UI设计师+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
-  <!-- 动感社交媒体按钮 -->
+  <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <a href="https://github.com/zyh3699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://space.bilibili.com/your-id"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
-    <!-- 新增社交媒体 -->
     <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 
-  <!-- 访问计数器 - 动态效果 -->
-  <img src="https://profile-counter.glitch.me/zyh3699/count.svg" alt="访问计数器" />
+  <!-- 访问计数器 - 增强动态效果 -->
+  <img src="https://komarev.com/ghpvc/?username=zyh3699&style=flat-square&color=blueviolet" alt="访问计数器" />
 
 </div>
 
 <!-- 添加动态波浪分隔符 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 <!-- 技能展示 - 炫酷旋转 3D 效果 -->
 <h2 align="center">
@@ -36,49 +35,65 @@
   <!-- 使用更美观的动态技能图标 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,git,vscode,figma,docker&perline=6" />
   
-  <!-- 添加技能动画卡片 -->
+  <!-- 添加技能动画卡片 - 改进布局 -->
   <table>
     <tr>
-      <td><img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"></td>
-      <td><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" height="60" alt="React"></td>
-      <td><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"></td>
-      <td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="60" alt="Git"></td>
+      <td align="center"><img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/><br/>JavaScript</td>
+      <td align="center"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" height="60" alt="React"/><br/>React</td>
+      <td align="center"><img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="60" height="60" alt="Vue"/><br/>Vue.js</td>
+      <td align="center"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"/><br/>Node.js</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" height="60" alt="VSCode"/><br/>VS Code</td>
+      <td align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="60" alt="Git"/><br/>Git</td>
+      <td align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" height="60" alt="GitHub"/><br/>GitHub</td>
+      <td align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60" height="60" alt="Python"/><br/>Python</td>
     </tr>
   </table>
 </div>
 
-<!-- 自定义进度条 -->
+<!-- 自定义进度条 - 修复显示问题 -->
 <div align="center">
   <h3>擅长领域</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 80%; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=donut&theme=radical&hide_border=true&title_color=FF5F6D" width="32%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&rank_icon=github&theme=radical&hide_border=true&title_color=FF5F6D" width="32%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyh3699&theme=radical&hide_border=true&ring=FF5F6D&fire=FFC371" width="32%" />
-  </div>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D" width="31%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D" width="31%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="31%" />
+  </p>
 </div>
 
-<!-- 动态分隔符 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- 动态分隔符 - 使用更现代的设计 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
 
-<!-- 项目展示部分 - 网格布局 -->
+<!-- 项目展示部分 - 网格布局优化 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
   精选项目
 </h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 20px 0;">
+<div align="center">
   <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="47%" />
   </a>
-  <!-- 示例项目卡片 - 可以替换为真实项目 -->
   <a href="https://github.com/zyh3699/awesome-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=awesome-ui&theme=radical&hide_border=true&title_color=FF5F6D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=awesome-ui&theme=radical&hide_border=true&title_color=FF5F6D" width="47%" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/zyh3699/data-viz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=data-viz&theme=radical&hide_border=true&title_color=FF5F6D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=data-viz&theme=radical&hide_border=true&title_color=FF5F6D" width="47%" />
   </a>
   <a href="https://github.com/zyh3699/ai-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=ai-assistant&theme=radical&hide_border=true&title_color=FF5F6D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=ai-assistant&theme=radical&hide_border=true&title_color=FF5F6D" width="47%" />
+  </a>
+</div>
+
+<!-- 添加项目按钮 -->
+<div align="center">
+  <a href="https://github.com/zyh3699?tab=repositories">
+    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
   </a>
 </div>
 
@@ -92,30 +107,33 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 我的旅程</h3>
-      <ul>
-        <li>🔭 正在研究 <b>前端架构与AI融合应用</b></li>
-        <li>🌱 学习 <b>React, TypeScript, 微前端</b></li>
-        <li>👯 希望参与 <b>创新开源项目</b></li>
-        <li>💬 擅长 <b>UI/UX设计, 前端优化</b></li>
-        <li>⚡ 有趣的是: <b>我既是代码工匠也是设计师</b></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎯 目标与方向</h3>
-      <ul>
-        <li>🚀 构建<b>用户友好的前端体验</b></li>
-        <li>📊 探索<b>可视化数据展示</b>领域</li>
-        <li>🤖 研究<b>AI辅助开发工具</b></li>
-        <li>📱 专注<b>响应式与跨平台</b>设计</li>
-        <li>🌐 推动<b>Web3与去中心化</b>应用</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<!-- 使用卡片式设计展示关于我 -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚀 我的旅程</h3>
+        <ul>
+          <li>🔭 正在研究 <b>前端架构与AI融合应用</b></li>
+          <li>🌱 学习 <b>React, TypeScript, 微前端</b></li>
+          <li>👯 希望参与 <b>创新开源项目</b></li>
+          <li>💬 擅长 <b>UI/UX设计, 前端优化</b></li>
+          <li>⚡ 有趣的是: <b>我既是代码工匠也是设计师</b></li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎯 目标与方向</h3>
+        <ul>
+          <li>🚀 构建<b>用户友好的前端体验</b></li>
+          <li>📊 探索<b>可视化数据展示</b>领域</li>
+          <li>🤖 研究<b>AI辅助开发工具</b></li>
+          <li>📱 专注<b>响应式与跨平台</b>设计</li>
+          <li>🌐 推动<b>Web3与去中心化</b>应用</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- 有趣的代码片段展示 - 增强视觉效果 -->
 <h2 align="center">
@@ -144,7 +162,7 @@ function lifePhilosophy() {
 }
 
 // 调用我的人生哲学
-const myPath = lifePhilophy();
+const myPath = lifePhilosophy();
 myPath.dailyRoutine();
 console.log(myPath.motto);
 ```
@@ -158,12 +176,21 @@ console.log(myPath.motto);
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&theme=radical&area=true&hide_border=true&radius=8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyh3699&custom_title=ZYH的贡献图&theme=tokyo-night&bg_color=141321&color=A9FEF7&line=FF9190&point=A9FEF7&area=true&hide_border=true" width="98%" />
 </div>
 
-<!-- 贡献蛇形图 -->
+<!-- 贡献蛇形图 - 修复显示问题 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zyh3699/zyh3699/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<!-- 添加动态语录 -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 </div>
 
 <!-- 页脚 - 更华丽的设计 -->
@@ -172,5 +199,6 @@ console.log(myPath.motto);
   
   <p>让我们一起探索代码的无限可能! ✨</p>
   
+  <!-- 添加更美观的动态页脚 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
