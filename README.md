@@ -30,7 +30,7 @@
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   技能与工具
 </h2>
 
@@ -44,18 +44,10 @@
 
 <!-- 擅长领域标题 - 统一样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   擅长领域
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
-
-<!-- 自定义进度条 - 修复显示问题并统一大小 -->
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
-    擅长领域
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
-  </h3>
   
   
   
@@ -77,7 +69,7 @@
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   精选项目
 </h2>
 
@@ -107,7 +99,7 @@
 
 <!-- 关于我部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-cool.gif?1643514476" width="30px" height="30px" style="vertical-align: middle;"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-cool.gif?1643514476" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/> 
   关于我
 </h2>
 
@@ -145,7 +137,7 @@
 
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   代码片段
 </h2>
 
@@ -179,9 +171,9 @@ console.log(myPath.motto);
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle;"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub 活动
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle;"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
 <div align="center">
@@ -218,9 +210,9 @@ console.log(myPath.motto);
 
 <!-- 页脚 - 统一标题样式并对齐图标 -->
 <h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   感谢访问我的 GitHub 主页!
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h3>
 
 <p>让我们一起探索代码的无限可能! ✨</p>
@@ -228,4 +220,3 @@ console.log(myPath.motto);
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
-````
