@@ -11,6 +11,9 @@ jobs:
     name: 生成3D贡献图
     steps:
       - uses: actions/checkout@v3
+        with:
+          # 使用令牌进行检出，以获得推送权限
+          token: ${{ secrets.TOKEN }}
       - name: 生成正确的settings.json目录
         run: |
           mkdir -p profile-3d-contrib
@@ -42,4 +45,6 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "更新3D贡献图" || exit 0
+          # 使用TOKEN环境变量进行推送，以获得必要权限
+          git remote set-url origin https://zyh3699:${{ secrets.TOKEN }}@github.com/zyh3699/zyh3699.git
           git push
