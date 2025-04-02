@@ -96,10 +96,6 @@
   关于我
 </h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
-</p>
-
 <!-- 使用卡片式设计展示关于我 -->
 <div align="center">
   <table>
@@ -140,7 +136,7 @@
 // 我的编程哲学 - 优化代码风格
 function lifePhilosophy() {
   const attitudes = ["好奇心", "创造力", "解决问题", "持续学习"];
-  const goals = ["构建优雅的UI", "创造流畅的UX", "打造高效系统"];
+  const goals = ["构建优雅的架构", "创造流畅的页面", "打造高效系统"];
 
   return {
     dailyRoutine: () =>
