@@ -27,9 +27,10 @@
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
     <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-    <br>
-    <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
-    </br>
+    
+  </p>
+  <p>
+  <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
   </p>
 </div>
 
