@@ -22,7 +22,9 @@
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
     <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=zyh3699.zyh3699&left_color=black&right_color=black&left_text=Visitors&format=true" alt="访问者数字徽章" />
+    <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zyh3699&label=访客统计&color=12&icon=5&pretty=true" />
+</a>
   </p>
 </div>
 
