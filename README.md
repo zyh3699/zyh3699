@@ -45,7 +45,7 @@
 <!-- 擅长领域标题 - 统一样式并对齐图标 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  擅长领域
+  社区贡献
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
   
@@ -208,7 +208,10 @@ console.log(myPath.motto);
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h3>
 
-<p>让我们一起探索代码的无限可能! ✨</p>
+<p align="center">
+  <i>让我们一起探索代码的无限可能!</i> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="✨" width="20" height="20" />
+</p>
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
