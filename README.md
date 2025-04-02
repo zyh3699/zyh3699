@@ -51,12 +51,12 @@
   
   
   
-  <!-- 统一卡片大小并修复加载问题 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D" width="32%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D" width="32%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="32%" />
-  </div>
+  <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh3699&layout=compact&theme=radical&hide_border=true&title_color=FF5F6D" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&show_icons=true&theme=radical&hide_border=true&title_color=FF5F6D" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyh3699&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="30%" />
+</div>
   
   <!-- 添加动态贡献热图 -->
   <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
