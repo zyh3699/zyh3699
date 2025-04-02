@@ -1,27 +1,32 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
   # 每天运行一次
   schedule:
     - cron: "0 0 * * *"
-  
+
   # 允许手动运行
   workflow_dispatch:
-  
+
   # 在main分支上的推送时运行
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
+      # 检出仓库代码
+      - name: Checkout
+        uses: actions/checkout@v2
+
       # 生成贡献蛇形图
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-generator
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -29,12 +34,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       # 推送到输出分支
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: 🐍 更新贡献蛇形图
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
