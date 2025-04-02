@@ -97,31 +97,71 @@
 </h2>
 
 <!-- 使用卡片式设计展示关于我 -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚀 我的旅程</h3>
-        <ul>
-          <li>🔭 正在研究 <b>前端架构与AI融合应用</b></li>
-          <li>🌱 学习 <b>React, TypeScript, 微前端</b></li>
-          <li>👯 希望参与 <b>创新开源项目</b></li>
-          <li>💬 擅长 <b>UI/UX设计, 前端优化</b></li>
-          <li>⚡ 有趣的是: <b>我既是代码工匠也是设计师</b></li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎯 目标与方向</h3>
-        <ul>
-          <li>🚀 构建<b>用户友好的前端体验</b></li>
-          <li>📊 探索<b>可视化数据展示</b>领域</li>
-          <li>🤖 研究<b>AI辅助开发工具</b></li>
-          <li>📱 专注<b>响应式与跨平台</b>设计</li>
-          <li>🌐 推动<b>Web3与去中心化</b>应用</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<!-- 关于我部分 - 纸张风格设计 -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  <!-- 左侧纸张 -->
+  <div style="width: 45%; background-color: white; border-radius: 10px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); padding: 20px; position: relative; transform: rotate(-1deg);">
+    <div style="position: absolute; top: -12px; left: 50%; transform: translateX(-50%);">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35px" height="35px" />
+    </div>
+    <h3 align="center" style="color: #6b47fb; margin-top: 15px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; font-size: 20px; font-weight: 600;">
+      🧠 我的AI研究领域
+    </h3>
+    <ul style="text-align: left; padding: 0 15px; margin-top: 15px; list-style-type: none;">
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">专注 <b style="color: #6b47fb;">大型语言模型(LLMs)</b> 研究</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">研究 <b style="color: #6b47fb;">多智能体协作系统</b> 架构设计</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">探索 <b style="color: #6b47fb;">AI辅助开发</b> 工具链构建</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">实践 <b style="color: #6b47fb;">深度学习优化</b> 技术</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">专研 <b style="color: #6b47fb;">生成式AI应用</b> 落地方案</span>
+      </li>
+    </ul>
+  </div>
+  
+  <!-- 右侧纸张 -->
+  <div style="width: 45%; background-color: white; border-radius: 10px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); padding: 20px; position: relative; transform: rotate(1deg);">
+    <div style="position: absolute; top: -12px; left: 50%; transform: translateX(-50%);">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="35px" height="35px" />
+    </div>
+    <h3 align="center" style="color: #ff6b6b; margin-top: 15px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; font-size: 20px; font-weight: 600;">
+      💾 数据与系统专长
+    </h3>
+    <ul style="text-align: left; padding: 0 15px; margin-top: 15px; list-style-type: none;">
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">精通 <b style="color: #ff6b6b;">分布式数据库</b> 系统设计</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">研究 <b style="color: #ff6b6b;">大规模机器学习</b> 数据处理</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">构建 <b style="color: #ff6b6b;">高性能数据分析</b> 平台</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">优化 <b style="color: #ff6b6b;">知识图谱存储</b> 架构</span>
+      </li>
+      <li style="margin: 10px 0; padding-left: 25px; position: relative;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20px" height="20px" style="position: absolute; left: 0; top: 2px;" />
+        <span style="color: #333;">探索 <b style="color: #ff6b6b;">向量数据库</b> 在AI中应用</span>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
