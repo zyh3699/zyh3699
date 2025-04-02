@@ -113,7 +113,7 @@
     <tr>
       <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
         <h3 align="center">🧠 AI研究领域</h3>
-        <ul>
+        <ul style="list-style-type: none; padding-left: 0;">
           <li>🔬 专注于 <b>大型语言模型(LLMs)训练与优化</b></li>
           <li>🤖 探索 <b>多智能体系统(Multi-Agent)架构</b></li>
           <li>🧪 研究 <b>深度学习与神经网络</b>技术</li>
@@ -123,7 +123,7 @@
       </td>
       <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
         <h3 align="center">💾 数据库与系统</h3>
-        <ul>
+        <ul style="list-style-type: none; padding-left: 0;">
           <li>🛢️ 设计 <b>分布式数据库</b>架构方案</li>
           <li>🔍 研究 <b>向量数据库与相似性搜索</b>技术</li>
           <li>📈 优化 <b>大规模数据处理</b>流程</li>
