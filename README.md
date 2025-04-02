@@ -109,30 +109,29 @@
 
 <!-- 使用卡片式设计展示关于我 -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🧠 AI研究领域</h3>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>🔬 专注于 <b>大型语言模型(LLMs)训练与优化</b></li>
-          <li>🤖 探索 <b>多智能体系统(Multi-Agent)架构</b></li>
-          <li>🧪 研究 <b>深度学习与神经网络</b>技术</li>
-          <li>📊 实践 <b>强化学习与RLHF</b>应用</li>
-          <li>⚡ 热衷于 <b>AI模型部署与工程化实践</b></li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <h3>💾 数据库与系统</h3>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>🛢️ 设计 <b>分布式数据库</b>架构方案</li>
-          <li>🔍 研究 <b>向量数据库与相似性搜索</b>技术</li>
-          <li>📈 优化 <b>大规模数据处理</b>流程</li>
-          <li>🔄 开发 <b>高性能数据分析</b>平台</li>
-          <li>🌐 构建 <b>知识图谱与语义检索</b>系统</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+
+<details open>
+<summary><h3>🧠 AI研究领域</h3></summary>
+<br>
+  
+- 🔬 专注于 **大型语言模型(LLMs)训练与优化**
+- 🤖 探索 **多智能体系统(Multi-Agent)架构**
+- 🧪 研究 **深度学习与神经网络**技术
+- 📊 实践 **强化学习与RLHF**应用
+- ⚡ 热衷于 **AI模型部署与工程化实践**
+</details>
+
+<details open>
+<summary><h3>💾 数据库与系统</h3></summary>
+<br>
+  
+- 🛢️ 设计 **分布式数据库**架构方案
+- 🔍 研究 **向量数据库与相似性搜索**技术
+- 📈 优化 **大规模数据处理**流程
+- 🔄 开发 **高性能数据分析**平台
+- 🌐 构建 **知识图谱与语义检索**系统
+</details>
+
 </div>
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 <h2 align="center">
