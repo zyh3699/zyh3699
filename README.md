@@ -97,37 +97,34 @@
 </h2>
 
 <!-- 使用卡片式设计展示关于我 -->
-<!-- 关于我部分 - 简洁纸张风格 -->
 <div align="center">
-  <table width="90%" style="margin: 20px auto; border-collapse: separate; border-spacing: 15px;">
+  <table style="background-color: transparent; border-collapse: separate; border-spacing: 10px;">
     <tr>
-      <!-- 左侧纸张 -->
-      <td width="50%" style="background-color: white; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); padding: 20px; vertical-align: top;">
-        <h3 align="center" style="border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; color: #6b47fb;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25" style="vertical-align: middle;"/> 
-          AI研究与探索
+      <!-- 左侧卡片 - AI研究 -->
+      <td width="50%" style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); padding: 15px 20px; vertical-align: top;">
+        <h3 align="center" style="color: #6b47fb; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px;">
+          🧠 AI研究方向
         </h3>
         <ul style="text-align: left; padding-left: 20px;">
-          <li>🔬 专注<b>大型语言模型(LLMs)</b>研究与优化</li>
-          <li>🤖 探索<b>多智能体(Multi-Agent)</b>系统架构</li>
-          <li>🧠 研究<b>深度学习</b>与<b>神经网络</b>技术</li>
-          <li>🔄 实践<b>强化学习</b>与<b>RLHF</b>应用</li>
-          <li>🎯 构建<b>AI辅助开发</b>工具生态</li>
+          <li>🔬 专注<b>大型语言模型(LLMs)</b>训练与优化</li>
+          <li>🤖 探索<b>多智能体(Multi-Agent)</b>系统研发</li>
+          <li>🧪 实践<b>生成式AI</b>应用落地方案</li>
+          <li>📊 研究<b>深度学习</b>与<b>机器学习</b>技术</li>
+          <li>🎯 构建<b>AI驱动决策</b>智能化系统</li>
         </ul>
       </td>
       
-      <!-- 右侧纸张 -->
-      <td width="50%" style="background-color: white; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); padding: 20px; vertical-align: top;">
-        <h3 align="center" style="border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; color: #ff5f6d;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25" style="vertical-align: middle;"/> 
-          数据库与系统
+      <!-- 右侧卡片 - 数据库研究 -->
+      <td width="50%" style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); padding: 15px 20px; vertical-align: top;">
+        <h3 align="center" style="color: #ff5f6d; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px;">
+          💾 数据库专长
         </h3>
         <ul style="text-align: left; padding-left: 20px;">
           <li>💾 设计<b>分布式数据库</b>架构方案</li>
-          <li>📊 优化<b>大规模数据处理</b>流程</li>
           <li>🔍 研究<b>向量数据库</b>与<b>相似性搜索</b></li>
-          <li>📈 开发<b>高性能数据分析</b>平台</li>
-          <li>🌐 构建<b>知识图谱</b>与<b>语义检索</b>系统</li>
+          <li>📄 优化<b>大规模数据</b>存储与检索</li>
+          <li>🔄 开发<b>高性能数据分析</b>引擎</li>
+          <li>🌐 构建<b>知识图谱</b>与<b>语义网络</b>系统</li>
         </ul>
       </td>
     </tr>
