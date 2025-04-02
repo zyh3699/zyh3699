@@ -103,7 +103,7 @@
 
 <!-- 关于我部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   关于我
 </h2>
 
@@ -154,38 +154,7 @@
 </div>
 </div>
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  代码片段
-</h2>
 
-<div align="center">
-
-```javascript
-// 我的编程哲学 - 优化代码风格
-function lifePhilosophy() {
-  const attitudes = ["好奇心", "创造力", "解决问题", "持续学习"];
-  const goals = ["构建优雅的架构", "创造流畅的页面", "打造高效系统"];
-
-  return {
-    dailyRoutine: () =>
-      attitudes.forEach((attitude) =>
-        console.log(`保持${attitude}，拥抱变化!`)
-      ),
-
-    career: () => goals.map((goal) => `专注${goal}，追求卓越`).join(" & "),
-
-    motto: "编码梦想，设计未来",
-  };
-}
-
-// 调用我的人生哲学
-const myPath = lifePhilosophy();
-myPath.dailyRoutine();
-console.log(myPath.motto);
-```
-
-</div>
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
