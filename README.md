@@ -111,24 +111,53 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
-        <h3 align="center">🧠 AI研究领域</h3>
-        <ul>
-          <li>🔬 专注于 <b>大型语言模型(LLMs)训练与优化</b></li>
-          <li>🤖 探索 <b>多智能体系统(Multi-Agent)架构</b></li>
-          <li>🧪 研究 <b>深度学习与神经网络</b>技术</li>
-          <li>📊 实践 <b>强化学习与RLHF</b>应用</li>
-          <li>⚡ 热衷于 <b>AI模型部署与工程化实践</b></li>
+      <td width="50%" style="background: linear-gradient(135deg, #f0f9ff 0%, #e6f4fe 100%); 
+                box-shadow: 0 6px 20px rgba(101,147,245,0.15);
+                border-radius: 12px;
+                padding: 20px;
+                margin: 12px;
+                transition: transform 0.3s ease;
+                cursor: pointer;">
+        <h3 align="center" style="color: #2b6cb0; 
+                   font-size: 1.4em;
+                   margin-bottom: 15px;
+                   border-bottom: 2px solid #bee3f8;
+                   padding-bottom: 8px;">
+          🌟 AI研究领域
+        </h3>
+        <ul style="list-style-type: none;
+               padding-left: 1.2em;
+               line-height: 1.8;">
+          <li>🚀 <b style="color: #2c5282;">大型语言模型</b>训练与优化</li>
+          <li>🤖 多智能体系统架构设计</li>
+          <li>🧠 深度神经网络算法研究</li>
+          <li>⚡ RLHF实践与应用探索</li>
+          <li>🛠️ AI工程化落地实践</li>
         </ul>
       </td>
-      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
-        <h3 align="center">💾 数据库与系统</h3>
-        <ul>
-          <li>🛢️ 设计 <b>分布式数据库</b>架构方案</li>
-          <li>🔍 研究 <b>向量数据库与相似性搜索</b>技术</li>
-          <li>📈 优化 <b>大规模数据处理</b>流程</li>
-          <li>🔄 开发 <b>高性能数据分析</b>平台</li>
-          <li>🌐 构建 <b>知识图谱与语义检索</b>系统</li>
+
+      <td width="50%" style="background: linear-gradient(135deg, #f3faf7 0%, #ebf8f4 100%);
+                box-shadow: 0 6px 20px rgba(72,187,120,0.1);
+                border-radius: 12px;
+                padding: 20px;
+                margin: 12px;
+                transition: transform 0.3s ease;
+                cursor: pointer;">
+        <h3 align="center" style="color: #2f855a;
+                   font-size: 1.4em;
+                   margin-bottom: 15px;
+                   border-bottom: 2px solid #c6f6d5;
+                   padding-bottom: 8px;">
+          🗃️ 数据库与系统
+        </h3>
+        <ul style="list-style-type: none;
+               padding-left: 1.2em;
+               line-height: 1.8;">
+          <li>🌐 分布式数据库架构设计</li>
+          <li>🔍 向量相似性搜索优化</li>
+          <li>📊 大数据处理流水线构建</li>
+          <li>🚄 高性能分析平台开发</li>
+          <li>🧠 知识图谱系统实现</li>
         </ul>
       </td>
     </tr>
