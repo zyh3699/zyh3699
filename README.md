@@ -1,17 +1,17 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=ZYH&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=热爱编程，创造价值&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Zephyr Zhong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=热爱编程，创造价值&descAlignY=55" />
   
-  # 👋 你好，我是 ZYH
+  # 👋 Hello，here is Zephyr Zhong
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=前端开发者+%7C+UI设计师+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <a href="https://github.com/zyh3699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:zephyrzhong248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://space.bilibili.com/your-id"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
     <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -36,20 +36,92 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,git,vscode,figma,docker&perline=6" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
-  <table>
-    <tr>
-      <td align="center"><img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/><br/>JavaScript</td>
-      <td align="center"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" height="60" alt="React"/><br/>React</td>
-      <td align="center"><img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="60" height="60" alt="Vue"/><br/>Vue.js</td>
-      <td align="center"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"/><br/>Node.js</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" height="60" alt="VSCode"/><br/>VS Code</td>
-      <td align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="60" alt="Git"/><br/>Git</td>
-      <td align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" height="60" alt="GitHub"/><br/>GitHub</td>
-      <td align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60" height="60" alt="Python"/><br/>Python</td>
-    </tr>
-  </table>
+  <!-- 添加技能动画卡片 - 扩展技能展示 -->
+<table>
+  <tr>
+    <td align="center"><img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" height="60" alt="React"/><br/>React</td>
+    <td align="center"><img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="60" height="60" alt="Vue"/><br/>Vue.js</td>
+    <td align="center"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" alt="Node.js"/><br/>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" height="60" alt="VSCode"/><br/>VS Code</td>
+    <td align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="60" alt="Git"/><br/>Git</td>
+    <td align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" height="60" alt="GitHub"/><br/>GitHub</td>
+    <td align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60" height="60" alt="Python"/><br/>Python</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" height="60" alt="Python"/><br/>Python</td>
+    <td align="center"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="60" height="60" alt="C++"/><br/>C++</td>
+    <td align="center"><img src="https://media.giphy.com/media/srDHQcQj5Np7MhpeDe/giphy.gif" width="60" height="60" alt="C"/><br/>C</td>
+    <td align="center"><img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" width="60" height="60" alt="Java"/><br/>Java</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/ZO9b1ntYVJmjZlsWlm/giphy.gif" width="60" height="60" alt="Jupyter"/><br/>Jupyter</td>
+    <td align="center"><img src="https://media.giphy.com/media/oUjgAGc4P1b7lCgeYc/giphy.gif" width="60" height="60" alt="PyTorch"/><br/>PyTorch</td>
+    <td align="center"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60" height="60" alt="GitLab"/><br/>GitLab</td>
+    <td align="center"><img src="https://media.giphy.com/media/YT9RWZabirYv3X3QTp/giphy.gif" width="60" height="60" alt="PyCharm"/><br/>PyCharm</td>
+  </tr>
+</table>
+
+<!-- 添加AI和机器学习专业技能卡片 -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="30px" height="30px">
+  AI与机器学习
+</h3>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" height="60" alt="Tensorflow"/><br/>Transformer</td>
+    <td align="center"><img src="https://media.giphy.com/media/SvEUbsaKIrtjfWFaX8/giphy.gif" width="60" height="60" alt="OpenAI"/><br/>LLaMA</td>
+    <td align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" height="60" alt="GPT"/><br/>GPT</td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPCyXbgqwvNqrYY/giphy.gif" width="60" height="60" alt="Qwen"/><br/>Qwen</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPtjEDVCpP0Otaw/giphy.gif" width="60" height="60" alt="SFT"/><br/>SFT</td>
+    <td align="center"><img src="https://media.giphy.com/media/Rmi2UinwvcRtjsE1UH/giphy.gif" width="60" height="60" alt="RLHF"/><br/>RLHF</td>
+    <td align="center"><img src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="60" height="60" alt="RAG"/><br/>RAG</td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtqazhiaGk0Mjk1b3EyMGkwZzhmbTIxMG9nbjFucWZrZmxnaGoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cnk4ZRWOMpyXWE/giphy.gif" width="60" height="60" alt="Agent"/><br/>Agent</td>
+  </tr>
+</table>
+
+<!-- 添加工具和平台卡片 -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="30px" height="30px">
+  开发工具与平台
+</h3>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/7MZ0v9KynmiSA/giphy.gif" width="60" height="60" alt="VS Code"/><br/>VS Code</td>
+    <td align="center"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub"/><br/>GitHub</td>
+    <td align="center"><img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="60" height="60" alt="LATEX"/><br/>LATEX</td>
+    <td align="center"><img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="60" height="60" alt="DeepSpeed"/><br/>DeepSpeed</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="60" height="60" alt="IntelliJ"/><br/>IntelliJ</td>
+    <td align="center"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60" alt="Gitee"/><br/>Gitee</td>
+    <td align="center"><img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" width="60" height="60" alt="SPSS"/><br/>SPSS</td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ3ZWU1cTc1dTJvdWhjazJmZGQ3M2Zzc3k1MWZwb21vbXNrbGc3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif" width="60" height="60" alt="Excel"/><br/>Excel</td>
+  </tr>
+</table>
+
+<!-- 添加互动技能进度条 -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
+  技能熟练度
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
+</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-★★★★★-F7DF1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-★★★★★-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-★★★★☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-★★★★☆-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-★★★☆☆-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matlab-★★★☆☆-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</div>
 </div>
 
 <!-- 自定义进度条 - 修复显示问题并统一大小 -->
