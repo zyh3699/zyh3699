@@ -100,7 +100,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
         <h3 align="center">🧠 AI研究领域</h3>
         <ul>
           <li>🔬 专注于 <b>大型语言模型(LLMs)训练与优化</b></li>
@@ -110,7 +110,7 @@
           <li>⚡ 热衷于 <b>AI模型部署与工程化实践</b></li>
         </ul>
       </td>
-      <td width="50%">
+      <td width="50%" style="background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 5px; padding: 10px;">
         <h3 align="center">💾 数据库与系统</h3>
         <ul>
           <li>🛢️ 设计 <b>分布式数据库</b>架构方案</li>
