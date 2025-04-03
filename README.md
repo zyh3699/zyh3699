@@ -18,6 +18,8 @@
     <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
     <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
+    <!-- 添加原创标识徽章 -->
+    <a href="https://github.com/zyh3699"><img src="https://img.shields.io/badge/©_2024_Zephyr_Zhong-版权所有-FF5F6D?style=for-the-badge" alt="版权声明"/></a>
 </p>
     
   </p>
@@ -42,24 +44,23 @@
   关于我
 </h2>
 
-
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="34%" valign="top">
 
-> ### 🧠 大语言模型与AI系统
-> 
+> ### 🧠 大语言模型与 AI 系统
+>
 > 🔬 专注于 **大型语言模型(LLMs)训练**
 > 🤖 探索 **多智能体系统架构**  
-> 🌐 开发 **AI应用的高效推理引擎**  
-> 📊 实践 **强化学习与RLHF**  
-> ⚡ 热衷于 **AI模型部署与工程化实践**
+> 🌐 开发 **AI 应用的高效推理引擎**  
+> 📊 实践 **强化学习与 RLHF**  
+> ⚡ 热衷于 **AI 模型部署与工程化实践**
 
 </td>
 <td width="34%" valign="top">
 
 > ### 🧪 深度学习与机器学习
-> 
+>
 > 🔍 钻研 **计算机视觉与图像识别**技术
 > 📝 实现 **自然语言处理与文本分析**  
 > 📈 应用 **时间序列预测与异常检测**  
@@ -70,7 +71,7 @@
 <td width="35%" valign="top">
 
 > ### 💾 数据库与系统
-> 
+>
 > 🛢️ 设计 **分布式数据库**架构方案  
 > 🔍 研究 **向量数据库与相似性搜索**
 > 📈 优化 **大规模数据处理**流程  
@@ -158,14 +159,12 @@
 
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 
-
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub 活动
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
-
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
@@ -183,7 +182,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E4%BB%A3%E7%A0%81%E6%98%AF%E8%AF%97%EF%BC%8C%E5%A6%82%E6%B0%B4%E8%88%AC%E6%B5%81%E7%95%85%EF%BC%9B%E9%97%AE%E9%A2%98%E6%98%AF%E6%95%8C%EF%BC%8C%E8%A7%A3%E5%86%B3%E6%97%B6%E4%BE%BF%E7%A5%9E%E5%BE%80%E3%80%82%E2%80%9D;%E2%80%9C%E6%8A%80%E6%9C%AF%E6%98%AF%E8%89%BA%E6%9C%AF%EF%BC%8C%E5%88%9B%E6%96%B0%E6%98%AF%E7%94%9F%E5%91%BD%EF%BC%9B%E6%8C%91%E6%88%98%E6%98%AF%E4%BF%A1%E4%BB%B0%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%98%AF%E5%8A%9B%E9%87%8F%E3%80%82%E2%80%9D;%E2%80%9C%E6%AF%8F%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%9B%BE%E3%80%82%E2%80%9D" alt="编程名言" />
 </div>
-
 
 <!-- 页脚 - 统一标题样式并对齐图标 -->
 <h3 align="center">
