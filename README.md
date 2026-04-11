@@ -34,12 +34,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zyh3699&theme=tokyonight&hide_border=true" width="60%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="38%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="33%" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
