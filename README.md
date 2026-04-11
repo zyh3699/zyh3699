@@ -39,29 +39,25 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="33%" />
 </div>
 
-<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  精选项目
+  Featured Projects
 </h2>
 
 <div align="center">
   <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=tokyonight&hide_border=true&title_color=A78BFA" width="49%" />
+    <img src="https://gh-card.dev/repos/zyh3699/dream-maze.svg" width="49%" />
   </a>
   <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=tokyonight&hide_border=true&title_color=A78BFA" width="49%" />
+    <img src="https://gh-card.dev/repos/zyh3699/doctopus.svg" width="49%" />
   </a>
 </div>
 
-<!-- 添加项目按钮 -->
 <div align="center">
   <a href="https://github.com/zyh3699?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%237C3AED?style=for-the-badge&logo=github" alt="查看更多项目" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-%237C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
 </div>
-
-<!-- 关于我部分 - 统一标题样式并对齐图标 -->
 
 <!-- 代码片段展示 - 统一标题样式并对齐图标 -->
 
