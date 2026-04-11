@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
     <img src="https://img.shields.io/github/stars/zyh3699?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
     <a href="https://github.com/zyh3699/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
-    <a href="https://zyh3699.github.io"><img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://zyh3699.github.io"><img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Website Template" /></a>
   </p>
 </div>
 
