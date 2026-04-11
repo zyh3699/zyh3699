@@ -73,6 +73,8 @@
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=tokyonight" width="100%" />
+
+<img src="https://raw.githubusercontent.com/zyh3699/zyh3699/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <div align="center">
