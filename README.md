@@ -42,14 +42,20 @@
   Featured Projects
 </h2>
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="50%" align="center">
   <a href="https://github.com/zyh3699/awesome-github-readme-profile">
-    <img src="https://gh-card.dev/repos/zyh3699/awesome-github-readme-profile.svg?theme=github_dark" width="49%" />
+    <img src="https://gh-card.dev/repos/zyh3699/awesome-github-readme-profile.svg?theme=github_dark" height="140" />
   </a>
+</td>
+<td width="50%" align="center">
   <a href="https://github.com/zyh3699/nlp">
-    <img src="https://gh-card.dev/repos/zyh3699/nlp.svg?theme=github_dark" width="49%" />
+    <img src="https://gh-card.dev/repos/zyh3699/nlp.svg?theme=github_dark" height="140" />
   </a>
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/zyh3699?tab=repositories">
