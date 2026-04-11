@@ -24,14 +24,14 @@ jobs:
             "foregroundColor": "#dddddd",
             "strongColor": "#ffffff",
             "weakColor": "#888888",
-            "radarColor": "#8c75da",
+            "radarColor": "#7C3AED",
             "growingAnimation": true,
             "contribColors": [
               "#161b22",
-              "#0e4429",
-              "#006d32",
-              "#26a641",
-              "#39d353"
+              "#2D1B69",
+              "#5B21B6",
+              "#7C3AED",
+              "#06B6D4"
             ]
           }
           EOL
