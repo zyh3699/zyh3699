@@ -1,9 +1,6 @@
 <div align="center">
   
-  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=250&section=header&text=Yuanhao-Zhong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
-  
-  # 👋 Hello，here is Zephyr Zhong
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Zephyr%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20%C2%B7%20ML%20%C2%B7%20Database%20Research&descAlignY=62&descSize=17" />
   
   <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
