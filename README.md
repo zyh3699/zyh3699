@@ -60,4 +60,10 @@
   <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
 
+<p align="center">
+  <a href="https://github.com/zyh3699/awesome-github-readme-profile">
+    <img src="https://img.shields.io/badge/Like%20this%20profile%3F%20Use%20the%20template%20→-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Use this template" />
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
