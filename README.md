@@ -27,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:06B6D4&height=3" width="100%" />
-</div>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   社区贡献
