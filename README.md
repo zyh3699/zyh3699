@@ -19,44 +19,36 @@
 <!-- 添加动态波浪分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=2" />
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  关于我
-</h2>
+<h2 align="center">About Me</h2>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<p align="center">
+  Researcher at the intersection of <strong>AI</strong> and <strong>Data</strong>.<br/>
+  Building systems that understand, reason, and act across language, vision, and structured data.
+</p>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="16" width="92%">
 <tr>
-<td width="34%" valign="top">
+<td align="center" valign="top" width="33%">
 
-> ### 🤖 AI Agents
->
-> 🔬 研究 **自主 AI Agent 框架**设计
-> 🧩 构建 **多智能体协作**系统
-> 🔄 实现 **Tool Use & Function Calling**
-> 🧠 探索 **Memory & Planning** 核心机制
-> ⚡ 开发 **Agentic Workflow** 工程化方案
+**🤖 AI Agents**
+
+Autonomous agent design · Multi-agent collaboration · Tool Use & Function Calling · Memory & Planning
 
 </td>
-<td width="34%" valign="top">
+<td align="center" valign="top" width="33%">
 
-> ### 🖼️ 多模态大语言模型
->
-> 👁️ 研究 **视觉-语言对齐**（VLMs）
-> 🎙️ 探索 **图文音多模态理解**
-> 📐 优化 **多模态指令微调**策略
-> 🔬 实验 **跨模态推理**能力边界
-> 🌐 应用于 **文档理解与结构化抽取**
+**🖼️ Multimodal LLMs**
+
+Vision-language alignment · Multimodal instruction tuning · Cross-modal reasoning · Document understanding
 
 </td>
-<td width="35%" valign="top">
+<td align="center" valign="top" width="34%">
 
-> ### 🗄️ AI4Data
->
-> 🛢️ 研究 **LLM 驱动的数据管理**
-> 🔍 构建 **AI 增强的数据查询**系统
-> 📊 探索 **Text-to-SQL & NL2Query**
-> 🤖 开发 **智能数据清洗与标注**流程
-> 🔗 研究 **知识图谱 + LLM** 融合应用
+**🗄️ AI4Data**
+
+LLM-driven data management · Text-to-SQL & NL2Query · Intelligent data pipelines · Knowledge graph + LLM
 
 </td>
 </tr>
