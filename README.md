@@ -20,22 +20,15 @@
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  技能与工具
+  Skills & Tools
 </h2>
 
 <div align="center">
-  <!-- 使用更美观的动态技能图标 -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
-  
-  <!-- 添加技能动画卡片 - 改进布局 -->
-  
 </div>
 
-<!-- 擅长领域标题 - 统一样式并对齐图标 -->
-
-<!-- 动态分隔符 - 使用更现代的设计 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:06B6D4&height=3" width="100%" />
 </div>
 
 <h2 align="center">
