@@ -43,11 +43,11 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://gh-card.dev/repos/zyh3699/dream-maze.svg?theme=github_dark" width="49%" />
+  <a href="https://github.com/zyh3699/awesome-github-readme-profile">
+    <img src="https://gh-card.dev/repos/zyh3699/awesome-github-readme-profile.svg?theme=github_dark" width="49%" />
   </a>
-  <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://gh-card.dev/repos/zyh3699/doctopus.svg?theme=github_dark" width="49%" />
+  <a href="https://github.com/zyh3699/nlp">
+    <img src="https://gh-card.dev/repos/zyh3699/nlp.svg?theme=github_dark" width="49%" />
   </a>
 </div>
 
