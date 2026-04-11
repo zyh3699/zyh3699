@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Zephyr%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20%C2%B7%20ML%20%C2%B7%20Database%20Research&descAlignY=62&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Zephyr%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;让数据更智能，让智能更有据;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
@@ -37,35 +37,35 @@
 <tr>
 <td width="34%" valign="top">
 
-> ### 🧠 大语言模型与 AI 系统
+> ### 🤖 AI Agents
 >
-> 🔬 专注于 **大型语言模型(LLMs)训练**
-> 🤖 探索 **多智能体系统架构**  
-> 🌐 开发 **AI 应用的高效推理引擎**  
-> 📊 实践 **强化学习与 RLHF**  
-> ⚡ 热衷于 **AI 模型部署与工程化实践**
+> 🔬 研究 **自主 AI Agent 框架**设计
+> 🧩 构建 **多智能体协作**系统
+> 🔄 实现 **Tool Use & Function Calling**
+> 🧠 探索 **Memory & Planning** 核心机制
+> ⚡ 开发 **Agentic Workflow** 工程化方案
 
 </td>
 <td width="34%" valign="top">
 
-> ### 🧪 深度学习与机器学习
+> ### 🖼️ 多模态大语言模型
 >
-> 🔍 钻研 **计算机视觉与图像识别**技术
-> 📝 实现 **自然语言处理与文本分析**  
-> 📈 应用 **时间序列预测与异常检测**  
-> 🧮 优化 **神经网络架构与训练策略**  
-> 🔄 探索 **迁移学习与少样本学习**
+> 👁️ 研究 **视觉-语言对齐**（VLMs）
+> 🎙️ 探索 **图文音多模态理解**
+> 📐 优化 **多模态指令微调**策略
+> 🔬 实验 **跨模态推理**能力边界
+> 🌐 应用于 **文档理解与结构化抽取**
 
 </td>
 <td width="35%" valign="top">
 
-> ### 💾 数据库与系统
+> ### 🗄️ AI4Data
 >
-> 🛢️ 设计 **分布式数据库**架构方案  
-> 🔍 研究 **向量数据库与相似性搜索**
-> 📈 优化 **大规模数据处理**流程  
-> 🔄 开发 **高性能数据分析**平台  
-> 🌐 构建 **知识图谱与语义检索**系统
+> 🛢️ 研究 **LLM 驱动的数据管理**
+> 🔍 构建 **AI 增强的数据查询**系统
+> 📊 探索 **Text-to-SQL & NL2Query**
+> 🤖 开发 **智能数据清洗与标注**流程
+> 🔗 研究 **知识图谱 + LLM** 融合应用
 
 </td>
 </tr>
