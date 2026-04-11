@@ -12,7 +12,7 @@
     <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
     <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
+    <img src="https://img.shields.io/github/stars/zyh3699?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
   </p>
 </div>
 
