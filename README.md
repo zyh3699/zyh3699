@@ -77,10 +77,6 @@
 <img src="https://raw.githubusercontent.com/zyh3699/zyh3699/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=700&height=80&lines=The+best+way+to+predict+the+future+is+to+build+it.;Data+is+the+new+oil.+AI+is+the+new+electricity.;Every+model+is+wrong%2C+but+some+are+useful." alt="quotes" />
-</div>
-
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
