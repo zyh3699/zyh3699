@@ -16,51 +16,6 @@
   </p>
 </div>
 
-<!-- 添加动态波浪分隔符 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=2" />
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  Researcher at the intersection of <strong>AI</strong> and <strong>Data</strong>.<br/>
-  Building systems that understand, reason, and act across language, vision, and structured data.
-</p>
-
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="16" width="92%">
-<tr>
-<td align="center" valign="top" width="33%">
-
-**🤖 AI Agents**
-
-Autonomous agent design · Multi-agent collaboration · Tool Use & Function Calling · Memory & Planning
-
-</td>
-<td align="center" valign="top" width="33%">
-
-**🖼️ Multimodal LLMs**
-
-Vision-language alignment · Multimodal instruction tuning · Cross-modal reasoning · Document understanding
-
-</td>
-<td align="center" valign="top" width="34%">
-
-**🗄️ AI4Data**
-
-LLM-driven data management · Text-to-SQL & NL2Query · Intelligent data pipelines · Knowledge graph + LLM
-
-</td>
-</tr>
-</table>
-
-<!-- ...existing code... -->
-
-<!-- ...existing code... -->
-<!-- ...existing code... -->
-
-</div>
-</div>
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
