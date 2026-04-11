@@ -29,24 +29,18 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  社区贡献
+  Contributions
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
-  
-  
-  
-  <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
-<!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
-<div align="center">
-<!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=tokyonight" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="33%" />
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="33%" />
 </div>
-  
-  <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
