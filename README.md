@@ -30,7 +30,7 @@
     
   </p>
   <p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzyh3699&count_bg=%23BF5FF2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="访问计数器" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zyh3699.zyh3699" alt="访问计数器" />
   </p>
 </div>
 
