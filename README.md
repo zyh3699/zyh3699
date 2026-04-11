@@ -37,31 +37,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="33%" />
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  Featured Projects
-</h2>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/zyh3699/awesome-github-readme-profile">
-    <img src="https://gh-card.dev/repos/zyh3699/awesome-github-readme-profile.svg?theme=github_dark" height="140" />
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/zyh3699/nlp">
-    <img src="https://gh-card.dev/repos/zyh3699/nlp.svg?theme=github_dark" height="140" />
-  </a>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/zyh3699?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%237C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
-  </a>
-</div>
 
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
