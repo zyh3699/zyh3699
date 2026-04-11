@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=zyh3699&theme=tokyonight&hide_border=true" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zyh3699&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="38%" />
 </div>
 
 <div align="center">
