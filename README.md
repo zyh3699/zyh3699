@@ -12,6 +12,7 @@
     <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
     <img src="https://img.shields.io/github/stars/zyh3699?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
+    <a href="https://github.com/zyh3699/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
   </p>
 </div>
 
@@ -58,12 +59,6 @@
 
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zyh3699/awesome-github-readme-profile">
-    <img src="https://img.shields.io/badge/Like%20this%20profile%3F%20Use%20the%20template%20→-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Use this template" />
-  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
