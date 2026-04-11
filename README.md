@@ -2,7 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuanhao%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
   
-  <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
 
   <p align="center">
@@ -17,7 +16,6 @@
 </div>
 
 
-<!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Skills & Tools
@@ -46,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://gh-card.dev/repos/zyh3699/dream-maze.svg" width="49%" />
+    <img src="https://gh-card.dev/repos/zyh3699/dream-maze.svg?theme=github_dark" width="49%" />
   </a>
   <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://gh-card.dev/repos/zyh3699/doctopus.svg" width="49%" />
+    <img src="https://gh-card.dev/repos/zyh3699/doctopus.svg?theme=github_dark" width="49%" />
   </a>
 </div>
 
